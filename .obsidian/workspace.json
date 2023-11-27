@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "aa4d79e50c3a53ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "60971d67f42ee6ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc4b99cafe5129b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8697e489306194",
+    "type": "split",
+    "children": [
+      {
+        "id": "94fd73969f96634b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899e6b0be232ae3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d13f49aeb3d39e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b73982a78a017129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a6c64b1a2c6050f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d81a2fd38c8c855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d5fa083b144772",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c140c39241e78d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33e7ae402819227c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c344d51937647e67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md"
+              }
+            }
+          },
+          {
+            "id": "61809f9002875b47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "899e6b0be232ae3c",
+  "lastOpenFiles": [
+    "Cybersecurity - CISCO/Introdução ás redes",
+    "Cybersecurity - CISCO",
+    "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md"
+  ]
+}
