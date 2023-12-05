@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -175,7 +176,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "7d9c584f852253e2",
   "lastOpenFiles": [
     "JAVASCRIPT/Elementos do DOM.md",
     "ASSETS",
