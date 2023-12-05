@@ -1,39 +1,44 @@
 {
   "main": {
-    "id": "aa4d79e50c3a53ce",
+    "id": "73bdd14b93ee463e",
     "type": "split",
     "children": [
       {
-        "id": "60971d67f42ee6ab",
+        "id": "91aa43950af5662e",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc4b99cafe5129b",
+            "id": "463e2166c7c5e317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a611953f836921dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c8697e489306194",
+    "id": "d03f5596a16542ed",
     "type": "split",
     "children": [
       {
-        "id": "94fd73969f96634b",
+        "id": "0ed9d7e4ee890b26",
         "type": "tabs",
         "children": [
           {
-            "id": "899e6b0be232ae3c",
+            "id": "7492318558bad5f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +48,7 @@
             }
           },
           {
-            "id": "d13f49aeb3d39e99",
+            "id": "1cc536538ca44cb6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,34 +63,34 @@
             }
           },
           {
-            "id": "b73982a78a017129",
+            "id": "f4dfc59102e53b26",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
   "right": {
-    "id": "a6c64b1a2c6050f9",
+    "id": "3807a7fe267f9b21",
     "type": "split",
     "children": [
       {
-        "id": "5d81a2fd38c8c855",
+        "id": "29f91369b5a6a788",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d5fa083b144772",
+            "id": "2dab7eed78811bd3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +102,18 @@
             }
           },
           {
-            "id": "5c140c39241e78d8",
+            "id": "4ca897db30e4aa63",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "33e7ae402819227c",
+            "id": "5994fcbe4eb63e15",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,24 +124,31 @@
             }
           },
           {
-            "id": "c344d51937647e67",
+            "id": "ce42a9c622a71cbb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "61809f9002875b47",
+            "id": "d7bd3b0dcfa1c622",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0859e7303c25637b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,25 +162,59 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "899e6b0be232ae3c",
+  "active": "a611953f836921dd",
   "lastOpenFiles": [
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127111605.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127111511.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127111423.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127111258.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127110427.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105511.png",
     "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127110311.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127110102.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105849.png",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105415.png",
+    "JAVASCRIPT",
+    "JavaScript/JavaScript.md",
+    "JavaScript",
+    "Sem título.canvas",
     "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105016.png",
-    "Cybersecurity - CISCO/Introdução ás redes",
-    "Cybersecurity - CISCO"
+    "WEB/Files/File Inclusion.md",
+    "WEB/Files/File Transfer - Basic.md",
+    "WEB/45d9c1baacda290c1f95858e27f740c9.png",
+    "EXPLOITATION/Priv Esc.md",
+    "Roadmap_sec-main/priv_esc.pdf",
+    "EXPLOITATION/Priv Esc",
+    "CTF/Priv Esc",
+    "Roadmap_sec-main/README.md",
+    "SO/Geral/Processos e Threads.md",
+    "WEB/File",
+    "ENG_REVERSA/Buffer Overflow.md",
+    "SO/Geral",
+    "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
+    "WEB/Web Shells/Rev Shell - Basic.md",
+    "WEB/b3683addecce2f99d7189ac87cf17557.png",
+    "WEB/API/Reconhecimento passivo.md",
+    "WEB/API/API Hacking Lab.md",
+    "SO/Linux/SSH e permissão de Usuário.md",
+    "CRIPTOGRAFIA/Links.md",
+    "CRIPTOGRAFIA/Auth Bypass",
+    "CTF/Links.md",
+    "WEB/2. Enum/Enum - Subdominios.md",
+    "WEB/Basico/Escalamento de Privilégios.md",
+    "WEB/2. Enum/Sem título",
+    "WEB/Basico/Ferramentas.md",
+    "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md",
+    "WEB/2. Enum/Enum - Básico.md",
+    "WEB/1. Recon/Ativo.md",
+    "WEB/1. Recon/Portscan.md",
+    "WEB/1. Recon/Passivo.md",
+    "WEB/Basico/Shell Upload e Shell reversa dentro do Servidor.md",
+    "WEB/Basico/Burlando o Firewall.md",
+    "WRITEUPS/TryHackMe",
+    "IMG/Pasted image 20231129042904.png",
+    "WEB/Pasted image 20231129043147.png",
+    "IMG/Screenshot_2023-11-20_13_13_22.png",
+    "IMG/Pasted image 20231129020557.png",
+    "IMG/Screenshot_2023-11-20_13_18_46.png",
+    "IMG/Screenshot_2023-11-20_13_32_10.png",
+    "IMG/Pasted image 20231129020019.png"
   ]
 }

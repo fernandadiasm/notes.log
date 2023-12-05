@@ -1,22 +1,163 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "REDES",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "WIRELESS",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "HTML",
+      "color": {
+        "a": 1,
+        "rgb": 8880112
+      }
+    },
+    {
+      "query": "CSS",
+      "color": {
+        "a": 1,
+        "rgb": 1052820
+      }
+    },
+    {
+      "query": "JAVASCRIPT",
+      "color": {
+        "a": 1,
+        "rgb": 7676092
+      }
+    },
+    {
+      "query": "GIT/GITHUB",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "PACKAGE MANAGERS",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "REACT",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "TAILWIND",
+      "color": {
+        "a": 1,
+        "rgb": 8187539
+      }
+    },
+    {
+      "query": "SASS",
+      "color": {
+        "a": 1,
+        "rgb": 15131806
+      }
+    },
+    {
+      "query": "TESTING APPS",
+      "color": {
+        "a": 1,
+        "rgb": 10417624
+      }
+    },
+    {
+      "query": "AUTHENTICATION STRATEGIES",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "WEB SECURITY BASICS",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "WEB COMPONENTS",
+      "color": {
+        "a": 1,
+        "rgb": 7868946
+      }
+    },
+    {
+      "query": "TYPESCRIPT",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "NEXT.JS",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "GRAPHQL",
+      "color": {
+        "a": 1,
+        "rgb": 4320472
+      }
+    },
+    {
+      "query": "STATIC SITE GENERATORS",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "REACT NATIVE",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.33975441889567,
+  "lineSizeMultiplier": 0.824691068356014,
+  "collapse-forces": false,
+  "centerStrength": 0.653449084936649,
+  "repelStrength": 13.7697481620522,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 297,
+  "scale": 0.8055354578492271,
   "close": false
 }

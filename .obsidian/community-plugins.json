@@ -1,9 +1,10 @@
 [
   "calendar",
-  "obsidian-icon-folder",
+  "fantasy-calendar",
+  "obsidian-full-calendar",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-tasks-plugin",
+  "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-git"
+  "remotely-save"
 ]
