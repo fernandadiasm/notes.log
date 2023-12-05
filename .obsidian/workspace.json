@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91aa43950af5662e",
+        "id": "6e5682fe6116563f",
         "type": "tabs",
         "children": [
           {
-            "id": "463e2166c7c5e317",
+            "id": "66827113cd17b7d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,11 +16,15 @@
             }
           },
           {
-            "id": "a611953f836921dd",
+            "id": "7d9c584f852253e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVASCRIPT/Elementos do DOM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -70,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVASCRIPT/Elementos do DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVASCRIPT/Elementos do DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVASCRIPT/Elementos do DOM.md"
+              }
             }
           },
           {
@@ -168,8 +175,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a611953f836921dd",
+  "active": "7d9c584f852253e2",
   "lastOpenFiles": [
+    "JAVASCRIPT/Elementos do DOM.md",
+    "README.md",
+    "JAVASCRIPT/embed.md",
+    "TRALALAL",
+    "REACT",
+    "JAVASCRIPT/teste.md",
     "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
     "JAVASCRIPT",
     "JavaScript/JavaScript.md",
@@ -199,16 +212,11 @@
     "CTF/Links.md",
     "WEB/2. Enum/Enum - Subdominios.md",
     "WEB/Basico/Escalamento de Privilégios.md",
-    "WEB/2. Enum/Sem título",
     "WEB/Basico/Ferramentas.md",
     "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md",
     "WEB/2. Enum/Enum - Básico.md",
     "WEB/1. Recon/Ativo.md",
     "WEB/1. Recon/Portscan.md",
-    "WEB/1. Recon/Passivo.md",
-    "WEB/Basico/Shell Upload e Shell reversa dentro do Servidor.md",
-    "WEB/Basico/Burlando o Firewall.md",
-    "WRITEUPS/TryHackMe",
     "IMG/Pasted image 20231129042904.png",
     "WEB/Pasted image 20231129043147.png",
     "IMG/Screenshot_2023-11-20_13_13_22.png",
