@@ -7,7 +7,7 @@
 <p> Repositório criado com o objetivo de reunir exercícios e anotações sobre tecnologias e linguagens de programação que estou aprendendo por meio da faculdade e cursos externos, me ajudando a melhorar e evoluir como uma desenvolvedora web (:</p>
 <br>
 
-#Pastas
+<h2> Pastas </h2>
 
 - [JavaScript](javascript)
 

@@ -175,10 +175,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7d9c584f852253e2",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
     "JAVASCRIPT/Elementos do DOM.md",
+    "ASSETS",
     "README.md",
+    "ASSETS/EX. Document Object Model.png",
     "JAVASCRIPT/embed.md",
     "TRALALAL",
     "REACT",
@@ -208,7 +210,6 @@
     "WEB/API/API Hacking Lab.md",
     "SO/Linux/SSH e permissão de Usuário.md",
     "CRIPTOGRAFIA/Links.md",
-    "CRIPTOGRAFIA/Auth Bypass",
     "CTF/Links.md",
     "WEB/2. Enum/Enum - Subdominios.md",
     "WEB/Basico/Escalamento de Privilégios.md",
@@ -216,13 +217,11 @@
     "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md",
     "WEB/2. Enum/Enum - Básico.md",
     "WEB/1. Recon/Ativo.md",
-    "WEB/1. Recon/Portscan.md",
     "IMG/Pasted image 20231129042904.png",
     "WEB/Pasted image 20231129043147.png",
     "IMG/Screenshot_2023-11-20_13_13_22.png",
     "IMG/Pasted image 20231129020557.png",
     "IMG/Screenshot_2023-11-20_13_18_46.png",
-    "IMG/Screenshot_2023-11-20_13_32_10.png",
-    "IMG/Pasted image 20231129020019.png"
+    "IMG/Screenshot_2023-11-20_13_32_10.png"
   ]
 }
