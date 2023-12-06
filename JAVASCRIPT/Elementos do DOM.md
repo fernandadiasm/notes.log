@@ -190,6 +190,12 @@ animais.attributes[0]; // retorna o primeiro atributo
 
 #### GetAttribute e SetAttribute
 Métodos que retornam ou definem de acordo com o atributo selecionado
+
+* O método `getAttribute` é usado para obter o valor de um atributo específico de um elemento HTML. Ele recebe um argumento, que é o nome do atributo que desejamos recuperar o valor.
+* O método `setAttribute` é usado para definir ou modificar o valor de um atributo em um elemento HTML. Ele aceita dois argumentos: o primeiro é o nome do atributo que queremos definir ou modificar, e o segundo é o valor que queremos atribuir a esse atributo. Se o atributo já existir, o método setAttribute irá sobrescrevê-lo; caso contrário, ele criará um novo atributo.
+* O método `hasAttribute` é usado para verificar se um elemento possui um atributo específico. Ele recebe um argumento, que é o nome do atributo que queremos verificar. O método retornará true se o atributo existir e false se o atributo não estiver presente.
+* O método `removeAttribute` é usado para remover um atributo específico de um elemento HTML. Ele recebe um argumento, que é o nome do atributo que desejamos remover.
+
 ```js
 const img = document.querySelector('img');
 
@@ -219,7 +225,14 @@ animais.attributes = 'class="ativo"'; // não funciona, read-only
 
 ### Eventos
 #### addEventListener
-Adiciona uma função ao elemento, esta chamada de `callback`, que será ativada assim que certo `evento` ocorrer neste elemento.
+Adiciona uma função ao elemento, esta chamada de `callback`, que será ativada assim que certo `evento` ocorrer neste elemento. 
+
+A sintaxe básica é a seguinte:
+`elemento.addEventListener(evento, callback);`
+Onde:
+- elemento: É o elemento HTML ao qual queremos associar o evento.
+- evento: É uma string que representa o tipo de evento que desejamos capturar.
+- callback: É a função que será chamada quando o evento ocorrer.
 ```js
 const img = document.querySelector('img');
 

@@ -3,5 +3,6 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 15
 }
