@@ -11,12 +11,8 @@
             "id": "c6f02414f446ee10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVASCRIPT/Elementos do DOM - exercícios.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM - exercícios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM - exercícios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVASCRIPT/Elementos do DOM - exercícios.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +160,17 @@
   },
   "active": "c6f02414f446ee10",
   "lastOpenFiles": [
-    "JAVASCRIPT/Elementos do DOM.md",
+    "ASSETS/Pasted image 20231207111428.png",
+    "ASSETS/Pasted image 20231207111448.png",
+    "ASSETS/Pasted image 20231207125144.png",
+    "ASSETS/Pasted image 20231207125626.png",
+    "ASSETS/Pasted image 20231207125716.png",
+    "ASSETS/Pasted image 20231207125750.png",
+    "REDES/4. Camada física.md",
+    "ASSETS/Pasted image 20231207112126.png",
+    "REDES",
     "JAVASCRIPT/Elementos do DOM - exercícios.md",
+    "JAVASCRIPT/Elementos do DOM.md",
     "README.md",
     "ASSETS",
     "ASSETS/EX. Document Object Model.png",
@@ -194,10 +195,8 @@
     "SO/Geral/Processos e Threads.md",
     "WEB/File",
     "ENG_REVERSA/Buffer Overflow.md",
-    "SO/Geral",
     "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
     "WEB/Web Shells/Rev Shell - Basic.md",
-    "WEB/b3683addecce2f99d7189ac87cf17557.png",
     "WEB/API/Reconhecimento passivo.md",
     "WEB/API/API Hacking Lab.md",
     "SO/Linux/SSH e permissão de Usuário.md",
@@ -206,14 +205,6 @@
     "WEB/2. Enum/Enum - Subdominios.md",
     "WEB/Basico/Escalamento de Privilégios.md",
     "WEB/Basico/Ferramentas.md",
-    "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md",
-    "WEB/2. Enum/Enum - Básico.md",
-    "WEB/1. Recon/Ativo.md",
-    "IMG/Pasted image 20231129042904.png",
-    "WEB/Pasted image 20231129043147.png",
-    "IMG/Screenshot_2023-11-20_13_13_22.png",
-    "IMG/Pasted image 20231129020557.png",
-    "IMG/Screenshot_2023-11-20_13_18_46.png",
-    "IMG/Screenshot_2023-11-20_13_32_10.png"
+    "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md"
   ]
 }
