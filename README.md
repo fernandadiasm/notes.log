@@ -12,4 +12,4 @@
 <h2> Pastas </h2>
 
 - [JavaScript](https://github.com/fernandadiasm/notes.log/tree/main/JAVASCRIPT)
-
+- [Redes](https://github.com/fernandadiasm/notes.log/tree/main/REDES)
