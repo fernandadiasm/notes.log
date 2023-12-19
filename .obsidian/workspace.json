@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
+                "file": "JAVASCRIPT/Elementos do DOM-exercicio.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
+                "file": "JAVASCRIPT/Elementos do DOM-exercicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
+                "file": "JAVASCRIPT/Elementos do DOM-exercicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md"
+                "file": "JAVASCRIPT/Elementos do DOM-exercicio.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "88faee21c218d80c",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
+    "Sem título.canvas",
     "REDES/4. Camada física.md",
     "CYBERSECURITY",
     "ASSETS/Pasted image 20231207111428.png",
@@ -193,7 +193,7 @@
     "ASSETS/Pasted image 20231207125750.png",
     "ASSETS/Pasted image 20231207112126.png",
     "REDES",
-    "JAVASCRIPT/Elementos do DOM - exercícios.md",
+    "JAVASCRIPT/Elementos do DOM-exercicio.md",
     "JAVASCRIPT/Elementos do DOM.md",
     "README.md",
     "ASSETS",
