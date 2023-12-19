@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Grupo de atores e defensores de ameaças.md",
+                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Grupo de atores e defensores de ameaças.md",
+                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Grupo de atores e defensores de ameaças.md",
+                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Grupo de atores e defensores de ameaças.md"
+                "file": "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "88faee21c218d80c",
   "lastOpenFiles": [
-    "REDES/4. Camada física.md",
-    "1. Grupo de atores e defensores de ameaças.md",
     "Sem título.canvas",
+    "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
+    "REDES/4. Camada física.md",
     "CYBERSECURITY",
     "ASSETS/Pasted image 20231207111428.png",
     "ASSETS/Pasted image 20231207111448.png",
@@ -226,7 +226,6 @@
     "CTF/Links.md",
     "WEB/2. Enum/Enum - Subdominios.md",
     "WEB/Basico/Escalamento de Privilégios.md",
-    "WEB/Basico/Ferramentas.md",
-    "WEB/Basico/Post Exploitation + Dump do Banco de Dados.md"
+    "WEB/Basico/Ferramentas.md"
   ]
 }
