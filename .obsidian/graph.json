@@ -146,6 +146,13 @@
         "a": 1,
         "rgb": 1842204
       }
+    },
+    {
+      "query": "CYBERSECURITY",
+      "color": {
+        "a": 1,
+        "rgb": 16122884
+      }
     }
   ],
   "collapse-display": false,
@@ -159,5 +166,5 @@
   "linkStrength": 1,
   "linkDistance": 297,
   "scale": 0.8055354578492271,
-  "close": true
+  "close": false
 }

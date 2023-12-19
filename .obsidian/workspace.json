@@ -11,11 +11,28 @@
             "id": "c6f02414f446ee10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "REDES/4. Camada física.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88faee21c218d80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Grupo de atores e defensores de ameaças.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Grupo de atores e defensores de ameaças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Grupo de atores e defensores de ameaças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Grupo de atores e defensores de ameaças.md"
+              }
             }
           },
           {
@@ -158,15 +179,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c6f02414f446ee10",
+  "active": "88faee21c218d80c",
   "lastOpenFiles": [
+    "REDES/4. Camada física.md",
+    "1. Grupo de atores e defensores de ameaças.md",
+    "Sem título.canvas",
+    "CYBERSECURITY",
     "ASSETS/Pasted image 20231207111428.png",
     "ASSETS/Pasted image 20231207111448.png",
     "ASSETS/Pasted image 20231207125144.png",
     "ASSETS/Pasted image 20231207125626.png",
     "ASSETS/Pasted image 20231207125716.png",
     "ASSETS/Pasted image 20231207125750.png",
-    "REDES/4. Camada física.md",
     "ASSETS/Pasted image 20231207112126.png",
     "REDES",
     "JAVASCRIPT/Elementos do DOM - exercícios.md",
@@ -182,7 +206,6 @@
     "JAVASCRIPT",
     "JavaScript/JavaScript.md",
     "JavaScript",
-    "Sem título.canvas",
     "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105016.png",
     "WEB/Files/File Inclusion.md",
     "WEB/Files/File Transfer - Basic.md",
@@ -193,7 +216,6 @@
     "CTF/Priv Esc",
     "Roadmap_sec-main/README.md",
     "SO/Geral/Processos e Threads.md",
-    "WEB/File",
     "ENG_REVERSA/Buffer Overflow.md",
     "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
     "WEB/Web Shells/Rev Shell - Basic.md",
