@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM exercício.md",
+                "file": "CYBERSECURITY/1. O perigo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bab2140590c84413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/2. Soldados na guerra contra o crime digital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 247
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM exercício.md",
+                "file": "CYBERSECURITY/2. Soldados na guerra contra o crime digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM exercício.md",
+                "file": "CYBERSECURITY/2. Soldados na guerra contra o crime digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Elementos do DOM exercício.md"
+                "file": "CYBERSECURITY/2. Soldados na guerra contra o crime digital.md"
               }
             }
           },
@@ -181,23 +193,26 @@
   },
   "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "CYBERSECURITY/1. Grupo de atores e defensores de ameaças.md",
-    "Sem título.canvas",
+    "CYBERSECURITY/1. O perigo.md",
+    "CYBERSECURITY/2. Soldados na guerra contra o crime digital.md",
+    "ASSETS/Pasted image 20231226202038.png",
+    "ASSETS/Pasted image 20231226202001.png",
+    "ASSETS/Pasted image 20231226201929.png",
+    "ASSETS/Pasted image 20231226201853.png",
+    "ASSETS/Pasted image 20231226201802.png",
     "REDES/4. Camada física.md",
+    "Sem título.canvas",
     "CYBERSECURITY",
     "ASSETS/Pasted image 20231207111428.png",
     "ASSETS/Pasted image 20231207111448.png",
     "ASSETS/Pasted image 20231207125144.png",
     "ASSETS/Pasted image 20231207125626.png",
     "ASSETS/Pasted image 20231207125716.png",
-    "ASSETS/Pasted image 20231207125750.png",
-    "ASSETS/Pasted image 20231207112126.png",
     "REDES",
     "JAVASCRIPT/Elementos do DOM exercício.md",
     "JAVASCRIPT/Elementos do DOM.md",
     "README.md",
     "ASSETS",
-    "ASSETS/EX. Document Object Model.png",
     "JAVASCRIPT/embed.md",
     "TRALALAL",
     "REACT",
@@ -206,10 +221,8 @@
     "JAVASCRIPT",
     "JavaScript/JavaScript.md",
     "JavaScript",
-    "Cybersecurity - CISCO/Introdução ás redes/imagens/Pasted image 20231127105016.png",
     "WEB/Files/File Inclusion.md",
     "WEB/Files/File Transfer - Basic.md",
-    "WEB/45d9c1baacda290c1f95858e27f740c9.png",
     "EXPLOITATION/Priv Esc.md",
     "Roadmap_sec-main/priv_esc.pdf",
     "EXPLOITATION/Priv Esc",
@@ -225,7 +238,6 @@
     "CRIPTOGRAFIA/Links.md",
     "CTF/Links.md",
     "WEB/2. Enum/Enum - Subdominios.md",
-    "WEB/Basico/Escalamento de Privilégios.md",
-    "WEB/Basico/Ferramentas.md"
+    "WEB/Basico/Escalamento de Privilégios.md"
   ]
 }
