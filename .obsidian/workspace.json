@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
+                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
+                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
+                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md"
+                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md"
               }
             }
           },
@@ -179,7 +179,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "2a96d1caba721ce0",
   "lastOpenFiles": [
     "CYBERSECURITY/03. O sistema operacional windows.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
