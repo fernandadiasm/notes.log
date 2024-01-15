@@ -14,5 +14,5 @@
 - [Computer Science](https://github.com/fernandadiasm/notes.log/tree/main/COMPUTER%20SCIENCE)
 - [Cybersecurity](https://github.com/fernandadiasm/notes.log/tree/main/CYBERSECURITY)
 - [Networks](https://github.com/fernandadiasm/notes.log/tree/main/NETWORKS)
-- [Front-end](https://github.com/fernandadiasm/notes.log/tree/main/FRONT%20END)
+- [Front-end](https://github.com/fernandadiasm/notes.log/tree/main/FRONT-END)
 
