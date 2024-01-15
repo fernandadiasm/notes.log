@@ -11,7 +11,8 @@
 
 <h2> Folders </h2>
 
+- [Computer Science](https://github.com/fernandadiasm/notes.log/tree/main/COMPUTER%20SCIENCE)
 - [Cybersecurity](https://github.com/fernandadiasm/notes.log/tree/main/CYBERSECURITY)
 - [Networks](https://github.com/fernandadiasm/notes.log/tree/main/NETWORKS)
-- [Programming Languages](https://github.com/fernandadiasm/notes.log/tree/main/PROGRAMMING%20LANGUAGES)
+- [Front-end](https://github.com/fernandadiasm/notes.log/tree/main/FRONT%20END)
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
+                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
+                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
+                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md"
+                "file": "CYBERSECURITY/04. Visão geral do Linux.md"
               }
             }
           },
@@ -181,21 +181,32 @@
   },
   "active": "2a96d1caba721ce0",
   "lastOpenFiles": [
+    "COMPUTER SCIENCE/Sem título.md",
+    "COMPUTER SCIENCE/README.md",
+    "CYBERSECURITY/04. Visão geral do Linux.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Programação em Python Para Análise de Dados",
+    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores",
+    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software",
+    "COMPUTER SCIENCE/3° PERÍODO/Desenvolvimento Rápido de Aplicações em Python",
+    "COMPUTER SCIENCE/3° PERÍODO",
+    "COMPUTER SCIENCE",
+    "ASSETS/Pasted image 20240115131647.png",
+    "ASSETS/Pasted image 20240115131203.png",
+    "ASSETS/Pasted image 20240115131059.png",
+    "FRONT-END/JAVASCRIPT/API/API.md",
     "CYBERSECURITY/03. O sistema operacional windows.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT/Elementos do DOM/Elementos do DOM.md",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT/API/API.md",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT/API",
+    "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM.md",
+    "FRONT-END/JAVASCRIPT/API",
     "2024-01-10.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT/Elementos do DOM",
+    "FRONT-END/JAVASCRIPT/Elementos do DOM",
     "NETWORKS/4. Camada física.md",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
-    "CYBERSECURITY/04. Visão geral do Linux.md",
-    "PROGRAMMING LANGUAGES",
-    "CYBERSECURITY/CyberOps Associate",
+    "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
+    "FRONT-END",
     "ASSETS/Pasted image 20240109113443.png",
     "ASSETS/Pasted image 20240109110934.png",
     "ASSETS/Pasted image 20240109110910.png",
@@ -203,19 +214,10 @@
     "ASSETS/Pasted image 20240109110820.png",
     "ASSETS/Pasted image 20240109110759.png",
     "ASSETS/Pasted image 20240109110553.png",
-    "ASSETS/Pasted image 20240109110311.png",
-    "ASSETS/Pasted image 20240109110216.png",
-    "ASSETS/Pasted image 20240109104338.png",
-    "CYBERSECURITY",
-    "NETWORKS",
     "README.md",
-    "ASSETS",
     "JAVASCRIPT/embed.md",
-    "TRALALAL",
-    "REACT",
     "JAVASCRIPT/teste.md",
     "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
-    "PROGRAMMING LANGUAGES/JAVASCRIPT",
     "JavaScript/JavaScript.md",
     "WEB/Files/File Inclusion.md",
     "WEB/Files/File Transfer - Basic.md",
@@ -226,8 +228,6 @@
     "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
     "WEB/Web Shells/Rev Shell - Basic.md",
     "WEB/API/Reconhecimento passivo.md",
-    "WEB/API/API Hacking Lab.md",
-    "SO/Linux/SSH e permissão de Usuário.md",
-    "CRIPTOGRAFIA/Links.md"
+    "WEB/API/API Hacking Lab.md"
   ]
 }
