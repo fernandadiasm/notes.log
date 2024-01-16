@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c542b44eeb12dbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md"
               }
             }
           },
@@ -179,11 +192,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2a96d1caba721ce0",
+  "active": "c542b44eeb12dbc1",
   "lastOpenFiles": [
+    "CYBERSECURITY/04. Visão geral do Linux.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
     "COMPUTER SCIENCE/Sem título.md",
     "COMPUTER SCIENCE/README.md",
-    "CYBERSECURITY/04. Visão geral do Linux.md",
     "COMPUTER SCIENCE/3° PERÍODO/Programação em Python Para Análise de Dados",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores",
@@ -227,7 +241,6 @@
     "ENG_REVERSA/Buffer Overflow.md",
     "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
     "WEB/Web Shells/Rev Shell - Basic.md",
-    "WEB/API/Reconhecimento passivo.md",
-    "WEB/API/API Hacking Lab.md"
+    "WEB/API/Reconhecimento passivo.md"
   ]
 }
