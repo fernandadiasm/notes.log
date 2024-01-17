@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0ab9c16b1f8596",
+        "id": "70e20e5ab6644f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "44422b6b8799beb1",
+            "id": "9532c8ffd28d7b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/03. O sistema operacional windows.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a96d1caba721ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYBERSECURITY/04. Visão geral do Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c542b44eeb12dbc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "file": "CYBERSECURITY/05. Protocolos de rede.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "file": "CYBERSECURITY/05. Protocolos de rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "file": "CYBERSECURITY/05. Protocolos de rede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md"
+                "file": "CYBERSECURITY/05. Protocolos de rede.md"
               }
             }
           },
@@ -192,9 +167,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c542b44eeb12dbc1",
+  "active": "9532c8ffd28d7b46",
   "lastOpenFiles": [
+    "Pasted image 20240117171910.png",
+    "Pasted image 20240117171613.png",
+    "Pasted image 20240117171537.png",
+    "Pasted image 20240117161441.png",
+    "Pasted image 20240117161423.png",
+    "Pasted image 20240117161411.png",
+    "Pasted image 20240117161358.png",
+    "Pasted image 20240117161346.png",
+    "Pasted image 20240117161234.png",
+    "Pasted image 20240117161209.png",
+    "Pasted image 20240117160804.png",
     "CYBERSECURITY/04. Visão geral do Linux.md",
+    "CYBERSECURITY/03. O sistema operacional windows.md",
+    "CYBERSECURITY/05. Protocolos de rede.md",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
     "COMPUTER SCIENCE/Sem título.md",
     "COMPUTER SCIENCE/README.md",
@@ -205,11 +193,7 @@
     "COMPUTER SCIENCE/3° PERÍODO/Desenvolvimento Rápido de Aplicações em Python",
     "COMPUTER SCIENCE/3° PERÍODO",
     "COMPUTER SCIENCE",
-    "ASSETS/Pasted image 20240115131647.png",
-    "ASSETS/Pasted image 20240115131203.png",
-    "ASSETS/Pasted image 20240115131059.png",
     "FRONT-END/JAVASCRIPT/API/API.md",
-    "CYBERSECURITY/03. O sistema operacional windows.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM.md",
@@ -221,13 +205,6 @@
     "NETWORKS/4. Camada física.md",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
     "FRONT-END",
-    "ASSETS/Pasted image 20240109113443.png",
-    "ASSETS/Pasted image 20240109110934.png",
-    "ASSETS/Pasted image 20240109110910.png",
-    "ASSETS/Pasted image 20240109110848.png",
-    "ASSETS/Pasted image 20240109110820.png",
-    "ASSETS/Pasted image 20240109110759.png",
-    "ASSETS/Pasted image 20240109110553.png",
     "README.md",
     "JAVASCRIPT/embed.md",
     "JAVASCRIPT/teste.md",
@@ -239,8 +216,6 @@
     "Roadmap_sec-main/README.md",
     "SO/Geral/Processos e Threads.md",
     "ENG_REVERSA/Buffer Overflow.md",
-    "CRIPTOGRAFIA/Auth Bypass/Enum Users.md",
-    "WEB/Web Shells/Rev Shell - Basic.md",
-    "WEB/API/Reconhecimento passivo.md"
+    "CRIPTOGRAFIA/Auth Bypass/Enum Users.md"
   ]
 }
