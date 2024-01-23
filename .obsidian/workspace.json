@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0198629661df4719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/06. Ethernet e IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBERSECURITY/05. Protocolos de rede.md",
+                "file": "CYBERSECURITY/06. Ethernet e IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBERSECURITY/05. Protocolos de rede.md",
+                "file": "CYBERSECURITY/06. Ethernet e IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/05. Protocolos de rede.md"
+                "file": "CYBERSECURITY/06. Ethernet e IP.md"
               }
             }
           },
@@ -167,23 +179,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9532c8ffd28d7b46",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "ASSETS/Pasted image 20240117171910.png",
-    "ASSETS/Pasted image 20240117171613.png",
-    "ASSETS/Pasted image 20240117171537.png",
-    "ASSETS/Pasted image 20240117161423.png",
-    "ASSETS/Pasted image 20240117161441.png",
-    "ASSETS/Pasted image 20240117161411.png",
-    "ASSETS/Pasted image 20240117161358.png",
-    "ASSETS/Pasted image 20240117161346.png",
-    "ASSETS/Pasted image 20240117161234.png",
-    "ASSETS/Pasted image 20240117161209.png",
-    "ASSETS/Pasted image 20240117160804.png",
-    "CYBERSECURITY/04. Visão geral do Linux.md",
-    "CYBERSECURITY/03. O sistema operacional windows.md",
+    "ASSETS/Pasted image 20240123111752.png",
+    "ASSETS/Pasted image 20240123111720.png",
+    "ASSETS/Pasted image 20240123111702.png",
+    "ASSETS/README.md",
+    "ASSETS/Pasted image 20240123113205.png",
+    "ASSETS/Pasted image 20240123113111.png",
+    "ASSETS/Pasted image 20240123112953.png",
+    "ASSETS/Pasted image 20240123112902.png",
+    "ASSETS/Pasted image 20240123112839.png",
+    "ASSETS/Pasted image 20240123112756.png",
+    "ASSETS/Pasted image 20240123112725.png",
+    "ASSETS/Pasted image 20240123112702.png",
+    "CYBERSECURITY/06. Ethernet e IP.md",
+    "CYBERSECURITY/06. Ethernet e IP.md",
     "CYBERSECURITY/05. Protocolos de rede.md",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+    "CYBERSECURITY/04. Visão geral do Linux.md",
+    "CYBERSECURITY/03. O sistema operacional windows.md",
     "COMPUTER SCIENCE/Sem título.md",
     "COMPUTER SCIENCE/README.md",
     "COMPUTER SCIENCE/3° PERÍODO/Programação em Python Para Análise de Dados",
@@ -213,9 +228,6 @@
     "WEB/Files/File Inclusion.md",
     "WEB/Files/File Transfer - Basic.md",
     "EXPLOITATION/Priv Esc.md",
-    "Roadmap_sec-main/README.md",
-    "SO/Geral/Processos e Threads.md",
-    "ENG_REVERSA/Buffer Overflow.md",
-    "CRIPTOGRAFIA/Auth Bypass/Enum Users.md"
+    "Roadmap_sec-main/README.md"
   ]
 }
