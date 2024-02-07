@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "nativeMenus": false,
   "translucency": false,
-  "baseFontSize": 11
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
 }
