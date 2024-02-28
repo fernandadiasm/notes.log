@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c72a15c938654a1",
+            "id": "913d7fe5bda02b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
+                "file": "FRONT-END/REACT/04. Ferramenta front end.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "620d1a3291a543f8",
+            "id": "e3fb9b77a33cfa6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/06. Ethernet e IP.md",
+                "file": "FRONT-END/REACT/05. JSX.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBERSECURITY/06. Ethernet e IP.md",
+                "file": "FRONT-END/REACT/05. JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBERSECURITY/06. Ethernet e IP.md",
+                "file": "FRONT-END/REACT/05. JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/06. Ethernet e IP.md"
+                "file": "FRONT-END/REACT/05. JSX.md"
               }
             }
           },
@@ -182,7 +181,13 @@
   },
   "active": "7492318558bad5f2",
   "lastOpenFiles": [
+    "FRONT-END/REACT/04. Ferramenta front end.md",
+    "FRONT-END/REACT/05. JSX.md",
+    "FRONT-END/REACT/03. Ferramentas de automação.md",
+    "FRONT-END/REACT/02. React vs JavaScript (diferenças).md",
+    "FRONT-END/REACT/01. React básico.md",
     "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
+    "FRONT-END/REACT",
     "CYBERSECURITY/Hackers do bem/AULA 03 - Profissões em cibersegurança.md",
     "CYBERSECURITY/06. Ethernet e IP.md",
     "CYBERSECURITY/05. Protocolos de rede.md",
@@ -218,17 +223,11 @@
     "2024-01-10.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "FRONT-END/JAVASCRIPT/Elementos do DOM",
     "NETWORKS/4. Camada física.md",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
     "README.md",
     "JAVASCRIPT/embed.md",
     "JAVASCRIPT/teste.md",
-    "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md",
-    "JavaScript/JavaScript.md",
-    "WEB/Files/File Inclusion.md",
-    "WEB/Files/File Transfer - Basic.md",
-    "EXPLOITATION/Priv Esc.md",
-    "Roadmap_sec-main/README.md"
+    "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md"
   ]
 }
