@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f27c63a5319a8896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRONT-END/REACT/05. JSX.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRONT-END/REACT/05. JSX.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRONT-END/REACT/05. JSX.md"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md"
               }
             }
           },
@@ -179,8 +191,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "f27c63a5319a8896",
   "lastOpenFiles": [
+    "NETWORKS/4. Camada física.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
     "FRONT-END/REACT/04. Ferramenta front end.md",
     "FRONT-END/REACT/05. JSX.md",
     "FRONT-END/REACT/03. Ferramentas de automação.md",
@@ -203,7 +217,6 @@
     "ASSETS/Pasted image 20240123112839.png",
     "ASSETS/Pasted image 20240123112756.png",
     "ASSETS/Pasted image 20240123112725.png",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
     "CYBERSECURITY/04. Visão geral do Linux.md",
     "CYBERSECURITY/03. O sistema operacional windows.md",
     "COMPUTER SCIENCE/Sem título.md",
@@ -223,7 +236,6 @@
     "2024-01-10.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "NETWORKS/4. Camada física.md",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
     "README.md",
     "JAVASCRIPT/embed.md",

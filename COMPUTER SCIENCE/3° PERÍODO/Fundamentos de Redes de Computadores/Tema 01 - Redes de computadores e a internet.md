@@ -25,3 +25,4 @@ Os dispositivos que utilizamos e que estão conectados à internet são chamados
 De uma forma geral, eles podem ser divididos em duas grandes categorias:
 1. **Clientes:** são os desktops, notebooks, smartphones e tablets, dispositivos que, normalmente, estão de posse de algum usuário.
 2. **Servidores:** são as máquinas mais poderosas, que armazenam e distribuem páginas web, vídeo em tempo real, retransmissão de e-mails etc.
+3. 
