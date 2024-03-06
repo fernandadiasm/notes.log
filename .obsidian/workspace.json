@@ -191,9 +191,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f27c63a5319a8896",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "NETWORKS/4. Camada física.md",
+    "COMPUTER ARCHITECTURE",
+    "COMPUTER NETWORK/4. Camada física.md",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
     "FRONT-END/REACT/04. Ferramenta front end.md",
     "FRONT-END/REACT/05. JSX.md",
@@ -239,7 +240,6 @@
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
     "README.md",
     "JAVASCRIPT/embed.md",
-    "JAVASCRIPT/teste.md",
-    "Cybersecurity - CISCO/Introdução ás redes/Módulo 1 - 3 (Comunicação e Conectividade de Rede Básica).md"
+    "JAVASCRIPT/teste.md"
   ]
 }
