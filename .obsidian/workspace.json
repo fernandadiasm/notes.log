@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6588e380bf0f0c",
+        "id": "5de524b248cdcb59",
         "type": "tabs",
         "children": [
           {
-            "id": "913d7fe5bda02b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRONT-END/REACT/04. Ferramenta front end.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3fb9b77a33cfa6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRONT-END/REACT/05. JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27c63a5319a8896",
+            "id": "9857bc6fa47f064e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +168,20 @@
   },
   "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "COMPUTER ARCHITECTURE",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01-Redes de computadores e a internet.pdf",
+    "ASSETS/Pasted image 20240307182516.png",
+    "ASSETS/Pasted image 20240307182220.png",
+    "ASSETS/Pasted image 20240307181944.png",
+    "ASSETS/Pasted image 20240307181701.png",
+    "ASSETS/Pasted image 20240307181134.png",
+    "ASSETS/Pasted image 20240307180633.png",
+    "ASSETS/Pasted image 20240307180318.png",
+    "ASSETS/Pasted image 20240307180210.png",
     "COMPUTER NETWORK/4. Camada física.md",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
-    "FRONT-END/REACT/04. Ferramenta front end.md",
     "FRONT-END/REACT/05. JSX.md",
+    "FRONT-END/REACT/04. Ferramenta front end.md",
+    "COMPUTER ARCHITECTURE",
     "FRONT-END/REACT/03. Ferramentas de automação.md",
     "FRONT-END/REACT/02. React vs JavaScript (diferenças).md",
     "FRONT-END/REACT/01. React básico.md",
@@ -209,15 +193,7 @@
     "CYBERSECURITY/Hackers do bem",
     "ASSETS/Pasted image 20240123111752.png",
     "ASSETS/Pasted image 20240123111720.png",
-    "ASSETS/Pasted image 20240123111702.png",
     "ASSETS/README.md",
-    "ASSETS/Pasted image 20240123113205.png",
-    "ASSETS/Pasted image 20240123113111.png",
-    "ASSETS/Pasted image 20240123112953.png",
-    "ASSETS/Pasted image 20240123112902.png",
-    "ASSETS/Pasted image 20240123112839.png",
-    "ASSETS/Pasted image 20240123112756.png",
-    "ASSETS/Pasted image 20240123112725.png",
     "CYBERSECURITY/04. Visão geral do Linux.md",
     "CYBERSECURITY/03. O sistema operacional windows.md",
     "COMPUTER SCIENCE/Sem título.md",
@@ -233,7 +209,6 @@
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM.md",
-    "FRONT-END/JAVASCRIPT/API",
     "2024-01-10.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
