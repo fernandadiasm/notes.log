@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "240c837f8dc502b9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ASSETS/Pasted image 20240318152840.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "file": "ASSETS/Pasted image 20240318152840.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+                "file": "ASSETS/Pasted image 20240318152840.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md"
+                "file": "ASSETS/Pasted image 20240318152840.png"
               }
             }
           },
@@ -168,31 +179,32 @@
   },
   "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01-Redes de computadores e a internet.pdf",
-    "ASSETS/Pasted image 20240307182516.png",
-    "ASSETS/Pasted image 20240307182220.png",
-    "ASSETS/Pasted image 20240307181944.png",
-    "ASSETS/Pasted image 20240307181701.png",
-    "ASSETS/Pasted image 20240307181134.png",
-    "ASSETS/Pasted image 20240307180633.png",
-    "ASSETS/Pasted image 20240307180318.png",
-    "ASSETS/Pasted image 20240307180210.png",
-    "COMPUTER NETWORK/4. Camada física.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de Referência Osi e Arquitetura Tcp-ip.md",
+    "ASSETS/Pasted image 20240318150426.png",
+    "ASSETS/Pasted image 20240318145852.png",
+    "ASSETS/Pasted image 20240318145837.png",
+    "ASSETS/Pasted image 20240318152840.png",
+    "ASSETS/Pasted image 20240318152806.png",
+    "ASSETS/Pasted image 20240318152738.png",
+    "ASSETS/Pasted image 20240318152527.png",
+    "ASSETS/Pasted image 20240318152239.png",
+    "ASSETS/Pasted image 20240318152223.png",
+    "ASSETS/Pasted image 20240318152039.png",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01-Redes de computadores e a internet.pdf",
+    "FRONT-END/REACT/01. React básico.md",
     "FRONT-END/REACT/05. JSX.md",
     "FRONT-END/REACT/04. Ferramenta front end.md",
-    "COMPUTER ARCHITECTURE",
     "FRONT-END/REACT/03. Ferramentas de automação.md",
     "FRONT-END/REACT/02. React vs JavaScript (diferenças).md",
-    "FRONT-END/REACT/01. React básico.md",
+    "COMPUTER NETWORK/4. Camada física.md",
+    "COMPUTER ARCHITECTURE",
     "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
     "FRONT-END/REACT",
     "CYBERSECURITY/Hackers do bem/AULA 03 - Profissões em cibersegurança.md",
     "CYBERSECURITY/06. Ethernet e IP.md",
     "CYBERSECURITY/05. Protocolos de rede.md",
     "CYBERSECURITY/Hackers do bem",
-    "ASSETS/Pasted image 20240123111752.png",
-    "ASSETS/Pasted image 20240123111720.png",
     "ASSETS/README.md",
     "CYBERSECURITY/04. Visão geral do Linux.md",
     "CYBERSECURITY/03. O sistema operacional windows.md",
@@ -204,7 +216,6 @@
     "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software",
     "COMPUTER SCIENCE/3° PERÍODO/Desenvolvimento Rápido de Aplicações em Python",
     "COMPUTER SCIENCE/3° PERÍODO",
-    "COMPUTER SCIENCE",
     "FRONT-END/JAVASCRIPT/API/API.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
@@ -214,7 +225,6 @@
     "Sem título.canvas",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
     "README.md",
-    "JAVASCRIPT/embed.md",
-    "JAVASCRIPT/teste.md"
+    "JAVASCRIPT/embed.md"
   ]
 }
