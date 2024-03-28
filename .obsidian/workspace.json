@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5de524b248cdcb59",
+        "id": "a57e74fcb45a5667",
         "type": "tabs",
         "children": [
           {
-            "id": "9857bc6fa47f064e",
+            "id": "bd6ff50a9853fd78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,26 @@
             }
           },
           {
-            "id": "240c837f8dc502b9",
+            "id": "6b305997994a391c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ASSETS/Pasted image 20240318152840.png"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd0f65e936d7fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -96,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASSETS/Pasted image 20240318152840.png",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASSETS/Pasted image 20240318152840.png",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASSETS/Pasted image 20240318152840.png"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md"
               }
             }
           },
@@ -177,21 +192,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "6b305997994a391c",
   "lastOpenFiles": [
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de Referência Osi e Arquitetura Tcp-ip.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência osi e arquitetura tcp-ip.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
+    "ASSETS/Pasted image 20240328115630.png",
+    "ASSETS/Pasted image 20240328115123.png",
+    "ASSETS/Pasted image 20240328114514.png",
+    "ASSETS/Pasted image 20240328114421.png",
+    "ASSETS/Pasted image 20240328114408.png",
+    "ASSETS/Pasted image 20240328114217.png",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.pdf",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência OSI e arquitetura TCP_IP.pdf",
+    "ASSETS/Pasted image 20240318163922.png",
+    "ASSETS/Pasted image 20240318152840.png",
     "ASSETS/Pasted image 20240318150426.png",
     "ASSETS/Pasted image 20240318145852.png",
-    "ASSETS/Pasted image 20240318145837.png",
-    "ASSETS/Pasted image 20240318152840.png",
-    "ASSETS/Pasted image 20240318152806.png",
-    "ASSETS/Pasted image 20240318152738.png",
-    "ASSETS/Pasted image 20240318152527.png",
-    "ASSETS/Pasted image 20240318152239.png",
-    "ASSETS/Pasted image 20240318152223.png",
-    "ASSETS/Pasted image 20240318152039.png",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01-Redes de computadores e a internet.pdf",
     "FRONT-END/REACT/01. React básico.md",
     "FRONT-END/REACT/05. JSX.md",
     "FRONT-END/REACT/04. Ferramenta front end.md",
@@ -214,8 +233,6 @@
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores",
     "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software",
-    "COMPUTER SCIENCE/3° PERÍODO/Desenvolvimento Rápido de Aplicações em Python",
-    "COMPUTER SCIENCE/3° PERÍODO",
     "FRONT-END/JAVASCRIPT/API/API.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
@@ -224,7 +241,6 @@
     "Sem título 1.canvas",
     "Sem título.canvas",
     "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM exercício.md",
-    "README.md",
-    "JAVASCRIPT/embed.md"
+    "README.md"
   ]
 }

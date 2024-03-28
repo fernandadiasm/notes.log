@@ -92,7 +92,7 @@ A infraestrutura de rede se encarrega de realizar todas essas ações que estar�
 E aí? Ficou curioso para saber qual API é essa que você pode utilizar? Acalme-se. Por enquanto, passaremos apenas o nome: **socket**.
 
 # Atraso em redes de comutação de pacotes
-O ideal seria que os serviços da internet transferissem dados entre sistemas finais, de modo instantâneo e sem nenhuma perda. Porém, as redes de computadores restringem a quantidade de dados que podem ser transferidos entre sistemas finais, apresentam atrasos entre sistemas finais e ainda podem perder pacotes. As leis da física introduzem atraso e perda.
+ As leis da física introduzem atraso e perda.
 Para ser possível a formulação de propostas de soluções para os problemas encontrados no funcionamento das redes de computadores, é recomendável examinar e quantificar esse contexto como parâmetros para avaliação das redes.
 
 # Tipos de atraso

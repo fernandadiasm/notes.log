@@ -2,7 +2,7 @@
 tags:
   - NETWORKING
 curso: Faculdade
-link do código:
+link do código: https://stecine.azureedge.net/repositorio/00212ti/00016/index.html#
 ---
 # Divisão da estrutura das redes em camadas
 ## Arquitetura em camadas
@@ -249,3 +249,18 @@ Ele é encontrado em duas versões principais:
 Será feito o maior esforço de entregar as informações, mas não será garantida a entrega, nem a ordem, nem a ausência de erro. Qualquer problema deverá ser corrigido pelas camadas superiores.
 
 > Atenção! Além do protocolo IP, a camada internet emprega outros protocolos que dão suporte ao encaminhamento dos dados. Existem protocolos com o objetivo de fazer sinalização e avisos de erros, como o ICMP (Internet Control Message Protocol), tradução do endereço lógico para o físico, como o ARP (Address Resolution Protocol), e a chamada comunicação multicast, que permite o envio dos dados para um grupo de estações, como o protocolo IGMP (Internet Group Management Protocol).
+
+### Acesso à rede
+
+A camada de acesso à rede não foi bem definida pela arquitetura TCP/IP, nem define um protocolo específico a ser empregado. O que foi dito inicialmente é que a camada de acesso à rede seria **qualquer coisa que pudesse ligar o dispositivo ao enlace de transmissão**.  
+  
+Mas, como para chegar até aqui já estudamos vários conceitos, sabemos que, apesar de não estar definida pela arquitetura TCP/IP, nessa camada encontraremos os serviços que são oferecidos pelas camadas de enlace e física do modelo OSI.  
+  
+Embora não faça parte da arquitetura TCP/IP, a arquitetura desenvolvida pelo Instituto de Engenheiros Eletricistas e Eletrônicos (Institute of Electrical and Electronics Engineers – IEEE), denominada **IEEE 802**, é largamente utilizada na camada de acesso à rede. Ela define diversos **padrões utilizados nas redes locais e metropolitanas**, como o padrão Ethernet e o famoso WiFi, que provavelmente você está usando agora para acessar este conteúdo.  
+  
+Agora que terminamos a apresentação dos principais protocolos da arquitetura TCP/IP, podemos fazer uma correlação entre a arquitetura internet e seus protocolos com o modelo OSI, conforme se vê a seguir:
+![[Pasted image 20240318163922.png]]
+> Saiba mais:
+>A arquitetura internet ou TCP/IP como uma estrutura de camadas não evoluiu ao longo dos anos. A grande evolução que tivemos foi nos protocolos empregados.  
+  Inicialmente, os protocolos da camada de aplicação eram concentrados nas aplicações textuais, com um pequeno volume de informação a ser trocado, como o Serviço Web criado por Sir Tim Berners-Lee, com foco em páginas textuais para troca de informações entre os centros de pesquisa.  
+  Atualmente, os protocolos evoluíram significativamente para oferecer maior qualidade de serviço, suporte ao tráfego de vídeo, segurança, transações financeiras, entre outros. Falando novamente do serviço Web, o protocolo https:// evoluiu de um protocolo textual para binário, a fim de dar suporte aos diversos usos do serviço Web, como assistir a vídeos, CRMs, ERPs, entre muitos outros sistemas complexos.
