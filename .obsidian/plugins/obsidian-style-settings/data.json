@@ -38,5 +38,7 @@
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-opacity": 1,
   "anuppuccin-theme-settings@@anp-colorful-frame-color@@dark": "#8AACAD",
-  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sapphire",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-yellow"
 }
