@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76e70594563219d2",
+            "id": "a8b6faf3c5298d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md"
               }
             }
           },
@@ -166,13 +167,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "a8b6faf3c5298d51",
   "lastOpenFiles": [
+    "Pasted image 20240510120043.png",
+    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/01. Fundamentos de Software e Gerenciamento de Projetos.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
+    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
     "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.pdf",
     "ASSETS/Pasted image 20240508202728.png",
     "ASSETS/Pasted image 20240508193508.png",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/01. Fundamentos de Software e Gerenciamento de Projetos.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
     "ASSETS/Pasted image 20240508180747.png",
     "ASSETS/Pasted image 20240419115914.png",
     "ASSETS/Pasted image 20240419115754.png",
@@ -209,11 +212,9 @@
     "COMPUTER SCIENCE/3° PERÍODO/Programação em Python Para Análise de Dados",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software",
     "FRONT-END/JAVASCRIPT/API/API.md",
     "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
     "CYBERSECURITY/01. O perigo.md",
-    "FRONT-END/JAVASCRIPT/Elementos do DOM/Elementos do DOM.md",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
