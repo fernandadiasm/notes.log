@@ -1,8 +1,8 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -22,149 +22,114 @@
       }
     },
     {
-      "query": "HTML",
+      "query": "WEB",
       "color": {
         "a": 1,
         "rgb": 8880112
       }
     },
     {
-      "query": "CSS",
+      "query": "ENG_REVERSA",
       "color": {
         "a": 1,
         "rgb": 1052820
       }
     },
     {
-      "query": "JAVASCRIPT",
+      "query": "MOBILE",
       "color": {
         "a": 1,
-        "rgb": 7676092
+        "rgb": 8528237
       }
     },
     {
-      "query": "GIT/GITHUB",
+      "query": "ENG SOCIAL",
       "color": {
         "a": 1,
         "rgb": 14701233
       }
     },
     {
-      "query": "PACKAGE MANAGERS",
+      "query": "CTF",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "REACT",
+      "query": "CRIPTOGRAFIA",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "TAILWIND",
+      "query": "MALWARE",
       "color": {
         "a": 1,
         "rgb": 8187539
       }
     },
     {
-      "query": "SASS",
+      "query": "ORGANIZAÇÃO",
       "color": {
         "a": 1,
         "rgb": 15131806
       }
     },
     {
-      "query": "TESTING APPS",
+      "query": "EXPLOITATION",
       "color": {
         "a": 1,
-        "rgb": 10417624
+        "rgb": 9118914
       }
     },
     {
-      "query": "AUTHENTICATION STRATEGIES",
+      "query": "Windows",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 675737
       }
     },
     {
-      "query": "WEB SECURITY BASICS",
+      "query": "Linux",
       "color": {
         "a": 1,
-        "rgb": 14732626
+        "rgb": 14328071
       }
     },
     {
-      "query": "WEB COMPONENTS",
+      "query": "Pentest",
       "color": {
         "a": 1,
         "rgb": 7868946
       }
     },
     {
-      "query": "TYPESCRIPT",
+      "query": "API",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "NEXT.JS",
+      "query": "SO",
       "color": {
         "a": 1,
         "rgb": 25343
       }
-    },
-    {
-      "query": "GRAPHQL",
-      "color": {
-        "a": 1,
-        "rgb": 4320472
-      }
-    },
-    {
-      "query": "STATIC SITE GENERATORS",
-      "color": {
-        "a": 1,
-        "rgb": 5395121
-      }
-    },
-    {
-      "query": "REACT NATIVE",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "EXERCÍCIOS",
-      "color": {
-        "a": 1,
-        "rgb": 1842204
-      }
-    },
-    {
-      "query": "CYBERSECURITY",
-      "color": {
-        "a": 1,
-        "rgb": 16122884
-      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.50364583333333,
-  "lineSizeMultiplier": 1.0953125,
-  "collapse-forces": false,
-  "centerStrength": 0.473958333333333,
-  "repelStrength": 13.2291666666667,
-  "linkStrength": 0.713541666666667,
-  "linkDistance": 324,
-  "scale": 0.40982573843632514,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.65677083333333,
+  "lineSizeMultiplier": 0.431770833333333,
+  "collapse-forces": true,
+  "centerStrength": 0.375,
+  "repelStrength": 12.5,
+  "linkStrength": 0.729166666666667,
+  "linkDistance": 218,
+  "scale": 0.14872058409308575,
   "close": false
 }

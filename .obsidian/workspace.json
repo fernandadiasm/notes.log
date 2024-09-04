@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "030f19d7d09d4d08",
+        "id": "f665e5fc8387c582",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b6faf3c5298d51",
+            "id": "984b62d4953c458f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
-                "mode": "source",
-                "source": false
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Scheduled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 377
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md"
+                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf"
               }
             }
           },
@@ -167,55 +164,55 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a8b6faf3c5298d51",
+  "active": "984b62d4953c458f",
   "lastOpenFiles": [
-    "Pasted image 20240510120043.png",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/01. Fundamentos de Software e Gerenciamento de Projetos.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/03. Modelos de Processos de Desenvolvimento de Software.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Engenharia de Software/02. Fases do Desenvolvimento de Software.pdf",
-    "ASSETS/Pasted image 20240508202728.png",
-    "ASSETS/Pasted image 20240508193508.png",
-    "ASSETS/Pasted image 20240508180747.png",
-    "ASSETS/Pasted image 20240419115914.png",
-    "ASSETS/Pasted image 20240419115754.png",
-    "ASSETS/Pasted image 20240419114546.png",
-    "ASSETS/Pasted image 20240419114437.png",
-    "ASSETS/Pasted image 20240419114241.png",
-    "Pasted image 20240415132422.png",
-    "Pasted image 20240415132342.png",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência osi e arquitetura tcp-ip.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 01 - Redes de computadores e a internet.pdf",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência OSI e arquitetura TCP_IP.pdf",
-    "FRONT-END/REACT/01. React básico.md",
-    "FRONT-END/REACT/05. JSX.md",
-    "FRONT-END/REACT/04. Ferramenta front end.md",
-    "FRONT-END/REACT/03. Ferramentas de automação.md",
-    "FRONT-END/REACT/02. React vs JavaScript (diferenças).md",
+    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
     "COMPUTER NETWORK/4. Camada física.md",
-    "COMPUTER ARCHITECTURE",
-    "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
-    "FRONT-END/REACT",
-    "CYBERSECURITY/Hackers do bem/AULA 03 - Profissões em cibersegurança.md",
-    "CYBERSECURITY/06. Ethernet e IP.md",
-    "CYBERSECURITY/05. Protocolos de rede.md",
-    "CYBERSECURITY/Hackers do bem",
-    "ASSETS/README.md",
-    "CYBERSECURITY/04. Visão geral do Linux.md",
-    "CYBERSECURITY/03. O sistema operacional windows.md",
-    "COMPUTER SCIENCE/Sem título.md",
     "COMPUTER SCIENCE/README.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Programação em Python Para Análise de Dados",
-    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores",
-    "FRONT-END/JAVASCRIPT/API/API.md",
-    "CYBERSECURITY/02. Soldados na guerra contra o crime digital.md",
-    "CYBERSECURITY/01. O perigo.md",
-    "Sem título 1.canvas",
-    "Sem título.canvas"
+    "README.md",
+    "COMPUTER NETWORK/Network Security - CISCO/01. Protegendo redes.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores",
+    "A/Untitled.canvas",
+    "A/Wokspace.canvas",
+    "A/Untitled 1.canvas",
+    "2023-12-22.md",
+    "WEB/canvas.png",
+    "IMG/canvas.png",
+    "IMG/Pasted image 20231225134824.png",
+    "IMG/Pasted image 20231222212534.png",
+    "IMG/Pasted image 20231222212510.png",
+    "IMG/Pasted image 20231221002713.png",
+    "IMG/Pasted image 20231221002658.png",
+    "IMG/Pasted image 20231221002635.png",
+    "IMG/Pasted image 20231221002534.png",
+    "IMG/Pasted image 20231221002510.png",
+    "EXPLOITATION/Privilege Escalation/Windows/4. Privilégios perigosos.md",
+    "EXPLOITATION/Privilege Escalation/Windows/3. Configurações incorretas de serviços.md",
+    "EXPLOITATION/Rev Shell/Tipos de Shell.md",
+    "EXPLOITATION/Privilege Escalation/Windows/2.  Outros ganhos rápidos.md",
+    "EXPLOITATION/Privilege Escalation/Windows/1. Enumeração e busca por senhas.md",
+    "EXPLOITATION/Privilege Escalation/Linux/1. Enumeração.md",
+    "EXPLOITATION/Privilege Escalation/Linux/7. NFS.md",
+    "EXPLOITATION/Privilege Escalation/Windows",
+    "EXPLOITATION/Privilege Escalation/Linux/6. Path.md",
+    "EXPLOITATION/Privilege Escalation/Linux/5. Cron Jobs.md",
+    "EXPLOITATION/Privilege Escalation/Linux/5. Cron Jobs",
+    "EXPLOITATION/Rev Shell/Basic Tips.md",
+    "EXPLOITATION/Privilege Escalation/Linux/4.  Recursos.md",
+    "EXPLOITATION/Privilege Escalation/Linux/3. Hacks em arquivos e grupos.md",
+    "EXPLOITATION/Privilege Escalation/Linux/2. Kernel Exploits.md",
+    "EXPLOITATION/Privilege Escalation/Linux/Enumeração 1.md",
+    "EXPLOITATION/Privilege Escalation/Linux",
+    "Roadmap_sec-main/Crack.pdf",
+    "Roadmap_sec-main/priv_esc.pdf",
+    "EXPLOITATION/Privilege Escalation",
+    "Roadmap_sec-main/exploitation.pdf",
+    "Roadmap_sec-main/enumeration.pdf"
   ]
 }

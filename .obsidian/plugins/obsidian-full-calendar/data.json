@@ -1,9 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "local",
-      "color": "rgb(240, 198, 198)",
-      "directory": "ASSETS"
+      "type": "dailynote",
+      "color": "#8559b1",
+      "heading": "test"
     }
   ],
   "defaultCalendar": 0,
