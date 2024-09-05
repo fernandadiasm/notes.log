@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md"
+                "file": "COMPUTER SCIENCE/README.md"
               }
             }
           },
@@ -166,8 +166,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "0eef619c7c700352",
   "lastOpenFiles": [
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+    "README.md",
+    "COMPUTER SCIENCE/README.md",
     "ASSETS/Pasted image 20240904210226.png",
     "ASSETS/Pasted image 20240904210006.png",
     "ASSETS/Pasted image 20240904205011.png",
@@ -180,13 +186,7 @@
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
     "COMPUTER NETWORK/4. Camada física.md",
-    "COMPUTER SCIENCE/README.md",
-    "README.md",
     "COMPUTER NETWORK/Network Security - CISCO/01. Protegendo redes.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores",
     "A/Untitled.canvas",
@@ -195,7 +195,6 @@
     "2023-12-22.md",
     "WEB/canvas.png",
     "IMG/canvas.png",
-    "IMG/Pasted image 20231225134824.png",
     "EXPLOITATION/Privilege Escalation/Windows/4. Privilégios perigosos.md",
     "EXPLOITATION/Privilege Escalation/Windows/3. Configurações incorretas de serviços.md",
     "EXPLOITATION/Rev Shell/Tipos de Shell.md",
