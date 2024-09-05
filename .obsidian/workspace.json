@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217,
-    "collapsed": true
+    "width": 217
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -167,16 +166,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0eef619c7c700352",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "Pasted image 20240904210226.png",
-    "Pasted image 20240904210006.png",
-    "Pasted image 20240904205011.png",
-    "Pasted image 20240904204606.png",
-    "Pasted image 20240904204011.png",
-    "Pasted image 20240904203651.png",
-    "Pasted image 20240904203217.png",
-    "Pasted image 20240904192437.png",
+    "ASSETS/Pasted image 20240904210226.png",
+    "ASSETS/Pasted image 20240904210006.png",
+    "ASSETS/Pasted image 20240904205011.png",
+    "ASSETS/Pasted image 20240904204606.png",
+    "ASSETS/Pasted image 20240904204011.png",
+    "ASSETS/Pasted image 20240904203651.png",
+    "ASSETS/Pasted image 20240904203217.png",
+    "ASSETS/Pasted image 20240904192437.png",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
