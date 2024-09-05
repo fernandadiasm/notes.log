@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f665e5fc8387c582",
+        "id": "f30c5ce4b3270571",
         "type": "tabs",
         "children": [
           {
-            "id": "984b62d4953c458f",
+            "id": "0eef619c7c700352",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf"
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf"
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md"
               }
             }
           },
@@ -164,8 +167,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "984b62d4953c458f",
+  "active": "0eef619c7c700352",
   "lastOpenFiles": [
+    "Pasted image 20240904210226.png",
+    "Pasted image 20240904210006.png",
+    "Pasted image 20240904205011.png",
+    "Pasted image 20240904204606.png",
+    "Pasted image 20240904204011.png",
+    "Pasted image 20240904203651.png",
+    "Pasted image 20240904203217.png",
+    "Pasted image 20240904192437.png",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
@@ -185,13 +197,6 @@
     "WEB/canvas.png",
     "IMG/canvas.png",
     "IMG/Pasted image 20231225134824.png",
-    "IMG/Pasted image 20231222212534.png",
-    "IMG/Pasted image 20231222212510.png",
-    "IMG/Pasted image 20231221002713.png",
-    "IMG/Pasted image 20231221002658.png",
-    "IMG/Pasted image 20231221002635.png",
-    "IMG/Pasted image 20231221002534.png",
-    "IMG/Pasted image 20231221002510.png",
     "EXPLOITATION/Privilege Escalation/Windows/4. Privilégios perigosos.md",
     "EXPLOITATION/Privilege Escalation/Windows/3. Configurações incorretas de serviços.md",
     "EXPLOITATION/Rev Shell/Tipos de Shell.md",
@@ -212,7 +217,6 @@
     "Roadmap_sec-main/Crack.pdf",
     "Roadmap_sec-main/priv_esc.pdf",
     "EXPLOITATION/Privilege Escalation",
-    "Roadmap_sec-main/exploitation.pdf",
-    "Roadmap_sec-main/enumeration.pdf"
+    "Roadmap_sec-main/exploitation.pdf"
   ]
 }
