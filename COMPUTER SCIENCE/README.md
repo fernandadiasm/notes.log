@@ -3,11 +3,18 @@
 In this file I will be organizing the folders according to the period I'm studying at college.
 
 <h2> Folders </h2>
+
 #### 1° período
+
+
 
 #### 2° período
 
+
+
 #### 3° período
+
+
 
 #### 4° período
 
