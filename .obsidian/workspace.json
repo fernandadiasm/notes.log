@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/README.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/README.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/README.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/README.md"
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md"
               }
             }
           },
@@ -168,20 +168,27 @@
   },
   "active": "0eef619c7c700352",
   "lastOpenFiles": [
+    "ASSETS/Pasted image 20240925180920.png",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+    "ASSETS/Pasted image 20240925180906.png",
+    "ASSETS/Pasted image 20240925180844.png",
+    "ASSETS/Pasted image 20240925180833.png",
+    "Captura_HTTP 1.cap",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Captura_HTTP 1.cap",
+    "Captura_HTTP.cap",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Captura_HTTP.cap",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL",
+    "ASSETS/Pasted image 20240925180502.png",
+    "ASSETS/Pasted image 20240925180020.png",
+    "ASSETS/Pasted image 20240925175957.png",
+    "ASSETS/Pasted image 20240925175431.png",
+    "ASSETS/Pasted image 20240925175407.png",
+    "ASSETS/Pasted image 20240924085601.png",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
+    "COMPUTER SCIENCE/README.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
     "README.md",
-    "COMPUTER SCIENCE/README.md",
-    "ASSETS/Pasted image 20240904210226.png",
-    "ASSETS/Pasted image 20240904210006.png",
-    "ASSETS/Pasted image 20240904205011.png",
-    "ASSETS/Pasted image 20240904204606.png",
-    "ASSETS/Pasted image 20240904204011.png",
-    "ASSETS/Pasted image 20240904203651.png",
-    "ASSETS/Pasted image 20240904203217.png",
-    "ASSETS/Pasted image 20240904192437.png",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
@@ -193,8 +200,6 @@
     "A/Wokspace.canvas",
     "A/Untitled 1.canvas",
     "2023-12-22.md",
-    "WEB/canvas.png",
-    "IMG/canvas.png",
     "EXPLOITATION/Privilege Escalation/Windows/4. Privilégios perigosos.md",
     "EXPLOITATION/Privilege Escalation/Windows/3. Configurações incorretas de serviços.md",
     "EXPLOITATION/Rev Shell/Tipos de Shell.md",
@@ -210,11 +215,6 @@
     "EXPLOITATION/Privilege Escalation/Linux/4.  Recursos.md",
     "EXPLOITATION/Privilege Escalation/Linux/3. Hacks em arquivos e grupos.md",
     "EXPLOITATION/Privilege Escalation/Linux/2. Kernel Exploits.md",
-    "EXPLOITATION/Privilege Escalation/Linux/Enumeração 1.md",
-    "EXPLOITATION/Privilege Escalation/Linux",
-    "Roadmap_sec-main/Crack.pdf",
-    "Roadmap_sec-main/priv_esc.pdf",
-    "EXPLOITATION/Privilege Escalation",
-    "Roadmap_sec-main/exploitation.pdf"
+    "EXPLOITATION/Privilege Escalation/Linux/Enumeração 1.md"
   ]
 }
