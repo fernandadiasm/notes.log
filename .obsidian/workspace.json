@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md"
+                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md"
               }
             }
           },
@@ -155,23 +155,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "0eef619c7c700352",
   "lastOpenFiles": [
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
     "ASSETS/Captura_HTTP 1.cap",
     "ASSETS/Captura_HTTP.cap",
     "ASSETS/Pasted image 20240925180920.png",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
     "ASSETS/Pasted image 20240925180906.png",
     "ASSETS/Pasted image 20240925180844.png",
     "ASSETS/Pasted image 20240925180833.png",
@@ -209,7 +208,6 @@
     "EXPLOITATION/Privilege Escalation/Windows/1. Enumeração e busca por senhas.md",
     "EXPLOITATION/Privilege Escalation/Linux/1. Enumeração.md",
     "EXPLOITATION/Privilege Escalation/Linux/7. NFS.md",
-    "EXPLOITATION/Privilege Escalation/Windows",
     "EXPLOITATION/Privilege Escalation/Linux/6. Path.md",
     "EXPLOITATION/Privilege Escalation/Linux/5. Cron Jobs.md",
     "EXPLOITATION/Rev Shell/Basic Tips.md",
