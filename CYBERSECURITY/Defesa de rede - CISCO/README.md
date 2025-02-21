@@ -2,7 +2,7 @@
 <h1 align="center"> Defesa de rede - CISCO </h1>
 
 <p align="center">
-<img alt="" src="/ASSETS/defesaDeRedes-CISCO.png"width="20%">
+<img alt="" src="/ASSETS/defesaDeRedes-CISCO.png"width="30%">
 </p>
 
 
