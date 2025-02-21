@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f30c5ce4b3270571",
+        "id": "6f40165a4a51ca27",
         "type": "tabs",
         "children": [
           {
-            "id": "0eef619c7c700352",
+            "id": "8649e57ad11cf8ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
+                "file": "CYBERSECURITY/Defesa de rede - CISCO/README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
+                "file": "CYBERSECURITY/Defesa de rede - CISCO/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
+                "file": "CYBERSECURITY/Defesa de rede - CISCO/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md"
-              }
+                "file": "CYBERSECURITY/Defesa de rede - CISCO/README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           }
         ],
@@ -155,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,8 +186,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0eef619c7c700352",
+  "active": "8649e57ad11cf8ff",
   "lastOpenFiles": [
+    "ASSETS/defesaDeRedes-CISCO.png",
+    "CYBERSECURITY/Defesa de rede - CISCO/assets",
+    "ASSETS/defesaDeRedes- CISCO.png",
+    "CYBERSECURITY/Defesa de rede - CISCO/index.html",
+    "index.html",
+    "ASSETS/DEFESA DE REDES -  CISCO .png",
+    "CYBERSECURITY/Defesa de rede - CISCO/README.md",
+    "Untitled",
+    "CYBERSECURITY/Defesa de rede - CISCO",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
+    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/01. Protocolos de Aplicação da Internet.md",
     "ASSETS/Captura_HTTP 1.cap",
     "ASSETS/Captura_HTTP.cap",
@@ -177,26 +209,17 @@
     "Captura_HTTP 1.cap",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Captura_HTTP 1.cap",
     "Captura_HTTP.cap",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Captura_HTTP.cap",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL",
     "ASSETS/Pasted image 20240925180502.png",
     "ASSETS/Pasted image 20240925180020.png",
     "ASSETS/Pasted image 20240925175957.png",
     "ASSETS/Pasted image 20240925175431.png",
-    "ASSETS/Pasted image 20240925175407.png",
-    "ASSETS/Pasted image 20240924085601.png",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
     "COMPUTER SCIENCE/README.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
     "README.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes01.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.pdf",
     "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
     "COMPUTER NETWORK/4. Camada física.md",
     "COMPUTER NETWORK/Network Security - CISCO/01. Protegendo redes.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores",
     "A/Untitled.canvas",
     "A/Wokspace.canvas",
     "A/Untitled 1.canvas",
@@ -213,7 +236,6 @@
     "EXPLOITATION/Rev Shell/Basic Tips.md",
     "EXPLOITATION/Privilege Escalation/Linux/4.  Recursos.md",
     "EXPLOITATION/Privilege Escalation/Linux/3. Hacks em arquivos e grupos.md",
-    "EXPLOITATION/Privilege Escalation/Linux/2. Kernel Exploits.md",
-    "EXPLOITATION/Privilege Escalation/Linux/Enumeração 1.md"
+    "EXPLOITATION/Privilege Escalation/Linux/2. Kernel Exploits.md"
   ]
 }
