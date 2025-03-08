@@ -62,9 +62,65 @@
               "icon": "lucide-file",
               "title": "OWASP Testing Guide"
             }
+          },
+          {
+            "id": "09fe8bbddf0a3f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/Residência em Blue Team/CIS Controls v8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIS Controls v8"
+            }
+          },
+          {
+            "id": "8592bc92dbc3bef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Scoring System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Vulnerability Scoring System"
+            }
+          },
+          {
+            "id": "31b6c5be4cea768e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/Residência em Blue Team/Common Weakness Enumeration(CWE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Weakness Enumeration(CWE)"
+            }
+          },
+          {
+            "id": "ce8a21126c0ee4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Exposure(CVE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Vulnerability Exposure(CVE)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,12 +286,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7ec0c91642781f9",
+  "active": "7492318558bad5f2",
   "lastOpenFiles": [
-    "CYBERSECURITY/Residência em Blue Team/NIST SP 800-115.md",
+    "CYBERSECURITY/Residência em Blue Team/Common Weakness Enumeration(CWE).md",
+    "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Exposure(CVE).md",
+    "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Scoring System.md",
+    "CYBERSECURITY/Residência em Blue Team/CIS Controls v8.md",
     "CYBERSECURITY/Residência em Blue Team/OWASP Testing Guide.md",
-    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27002 2022.md",
     "Untitled",
+    "CYBERSECURITY/Residência em Blue Team/NIST SP 800-115.md",
+    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27002 2022.md",
     "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27001 2022.md",
     "CYBERSECURITY/Residência em Blue Team/README.md",
     "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
@@ -274,10 +334,6 @@
     "ASSETS/Pasted image 20240925180020.png",
     "COMPUTER SCIENCE/README.md",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/04. Protocolo Ipv6.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 02 - Tipos de Dados, Expressões, Operadores e Tabela Verdade.md",
-    "COMPUTER SCIENCE/3° PERÍODO/Introdução à Programação Estruturada em C/Tema 01 - Solução de problemas e pensamento computacional.md",
-    "COMPUTER NETWORK/4. Camada física.md",
-    "COMPUTER NETWORK/Network Security - CISCO/01. Protegendo redes.md",
     "A/Untitled.canvas",
     "A/Wokspace.canvas",
     "A/Untitled 1.canvas"
