@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 237,
+    "collapsed": true
   },
   "right": {
     "id": "3807a7fe267f9b21",
@@ -187,11 +188,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7492318558bad5f2",
+  "active": "7f81bd5685cbee62",
   "lastOpenFiles": [
+    "CYBERSECURITY/Residência em Blue Team/01 BLOCO DE ANOTAÇÕES.md",
     "WEB/Pasted image 20250310165252.png",
     "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27001 2022.md",
-    "CYBERSECURITY/Residência em Blue Team/01 BLOCO DE ANOTAÇÕES.md",
     "CYBERSECURITY/Residência em Blue Team/README.md",
     "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Exposure(CVE).md",
     "CYBERSECURITY/Residência em Blue Team/Common Weakness Enumeration(CWE).md",
@@ -234,7 +235,6 @@
     "ASSETS/Pasted image 20240925180844.png",
     "ASSETS/Pasted image 20240925180833.png",
     "ASSETS/Pasted image 20240925180502.png",
-    "ASSETS/Pasted image 20240925180020.png",
     "A/Untitled.canvas",
     "A/Wokspace.canvas",
     "A/Untitled 1.canvas"
