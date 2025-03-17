@@ -16,7 +16,11 @@ Ele funciona como um **manual de boas práticas** que a empresa deve seguir para
 - **Monitorar e reduzir riscos** relacionados à segurança digital.
 - **Criar uma cultura de segurança**, treinando funcionários para evitar falhas humanas.
 
-O SGSI segue o **ciclo PDCA** (Plan, Do, Check, Act), garantindo que a segurança seja sempre melhorada.
+O SGSI segue o **ciclo contínuo de segurança** baseado no método **PDCA (Planejar, Fazer, Checar, Agir)**, garantindo que a segurança seja sempre melhorada.
+✅ **Planejar (Plan)** – Definir escopo, políticas de segurança e análise de riscos.  
+✅ **Executar (Do)** – Implementar medidas de segurança e controles.  
+✅ **Verificar (Check)** – Monitorar e auditar a segurança da informação.  
+✅ **Agir (Act)** – Melhorar continuamente o sistema com base nos resultados.
 ###### ✅ Identificar e gerenciar **riscos de segurança**.  
 A norma exige que a empresa faça uma **análise de riscos** para entender quais ameaças podem comprometer sua segurança da informação.
 
@@ -49,18 +53,13 @@ Para isso, a empresa pode adotar tecnologias como:
 ✔️ **Autenticação forte** – Uso de múltiplas camadas de segurança (ex.: autenticação de dois fatores).  
 ✔️ **Monitoramento contínuo** – Sistemas que detectam atividades suspeitas e previnem incidentes.
 
+
 ### 🔍 Exemplos de uso:
 - Criar **processos de gestão de vulnerabilidades** mais estruturados.
 - Garantir que os controles de segurança aplicados estejam dentro de um **padrão reconhecido**.
 - **Justificar decisões de segurança**, já que a norma é uma referência global.
 
 Aplicar a **ABNT NBR ISO/IEC 27001:2022** na prática significa **estruturar um sistema de gestão da segurança da informação (SGSI)**, garantindo que a organização siga boas práticas para proteger seus dados. No caso de uma gestão de vulnerabilidades, por exemplo, a norma pode ser aplicada para estruturar e padronizar esse processo.
-
-A **ISO 27001** segue um **ciclo contínuo de segurança**, baseado no método **PDCA (Planejar, Fazer, Checar, Agir)**.
-✅ **Planejar (Plan)** – Definir escopo, políticas de segurança e análise de riscos.  
-✅ **Executar (Do)** – Implementar medidas de segurança e controles.  
-✅ **Verificar (Check)** – Monitorar e auditar a segurança da informação.  
-✅ **Agir (Act)** – Melhorar continuamente o sistema com base nos resultados.
 
 ##### 🎯 Resumo Final: Como a ISO/IEC 27001:2022 funciona?
 1️⃣ **Define requisitos para proteger informações** com base nos princípios de **confidencialidade, integridade e disponibilidade**.  
