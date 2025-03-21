@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "452978dbf7b56aa2",
+        "id": "527fc2a46b76f41f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f81bd5685cbee62",
+            "id": "98c3f4671f3e12ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27001 2022.md",
+                "file": "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.4. Resumo de entendendo a defesa..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABNT NBR ISO-IEC 27001 2022"
+              "title": "1.4. Resumo de entendendo a defesa."
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Scheduled",
+                "query": "tag:#NETWORKING",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,11 +188,30 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f81bd5685cbee62",
+  "active": "98c3f4671f3e12ca",
   "lastOpenFiles": [
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.3. Políticas, regulamentos e padrões de segurança.md",
+    "CYBERSECURITY/Defesa de rede - CISCO/README.md",
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.4. Resumo de entendendo a defesa..md",
+    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência osi e arquitetura tcp-ip.md",
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.2. Gerenciamento de operações de segurança cibernética.md",
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.1 Defesa em profundidade.md",
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.0 Introdução.md",
+    "WEB/Pasted image 20250320223746.png",
+    "WEB/Pasted image 20250320223555.png",
+    "WEB/Pasted image 20250320222945.png",
+    "WEB/Pasted image 20250320222857.png",
+    "WEB/Pasted image 20250320222756.png",
+    "WEB/Pasted image 20250320222707.png",
+    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/0.1 introdução ao curso.md",
+    "WEB/packet-tracer-logical-and-physical-mode-exploration 1.pksz",
+    "CYBERSECURITY/Defesa de rede - CISCO/docs/packet-tracer-logical-and-physical-mode-exploration.pksz",
+    "CYBERSECURITY/Defesa de rede - CISCO/docs",
+    "WEB/packet-tracer-logical-and-physical-mode-exploration.pksz",
+    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27002 2022.md",
+    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27001 2022.md",
     "CYBERSECURITY/Residência em Blue Team/01 BLOCO DE ANOTAÇÕES.md",
     "WEB/Pasted image 20250310165252.png",
-    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27001 2022.md",
     "CYBERSECURITY/Residência em Blue Team/README.md",
     "CYBERSECURITY/Residência em Blue Team/Common Vulnerability Exposure(CVE).md",
     "CYBERSECURITY/Residência em Blue Team/Common Weakness Enumeration(CWE).md",
@@ -200,12 +219,9 @@
     "CYBERSECURITY/Residência em Blue Team/CIS Controls v8.md",
     "CYBERSECURITY/Residência em Blue Team/OWASP Testing Guide.md",
     "CYBERSECURITY/Residência em Blue Team/NIST SP 800-115.md",
-    "CYBERSECURITY/Residência em Blue Team/ABNT NBR ISO-IEC 27002 2022.md",
     "CYBERSECURITY/Residência em Blue Team/NIST SP 800-115 1.md",
-    "Untitled",
     "CYBERSECURITY/Hackers do bem/AULA 02 - Introdução à ética.md",
     "README.md",
-    "CYBERSECURITY/Defesa de rede - CISCO/01 - Compreendendo a defesa/1.0 Introdução.md",
     "CYBERSECURITY/Residência em Blue Team",
     "COMPUTER SCIENCE/5º período/cálculo de múltiplas variáveis/Tema 02 - Funções de várias variáveis e suas derivadas.md",
     "WEB/Pasted image 20250305122310.png",
@@ -214,27 +230,12 @@
     "COMPUTER SCIENCE/5º período",
     "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/pdfs/redes02.pdf",
     "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Tema 5 - Protocolo Ipv6.pdf",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Tema 4 - Protocolo Ipv4.pdf",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Tema 3 - Protocolos de Transporte da Internet.pdf",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/MATERIAL/Tema 2 - Protocolos de Aplicação da Internet.pdf",
-    "COMPUTER SCIENCE/3° PERÍODO/Fundamentos de Redes de Computadores/Tema 02 - Modelo de referência osi e arquitetura tcp-ip.md",
-    "CYBERSECURITY/Defesa de rede - CISCO/README.md",
     "CYBERSECURITY/CyberOps Associate - CISCO/06. Ethernet e IP.md",
     "CYBERSECURITY/CyberOps Associate - CISCO/05. Protocolos de rede.md",
     "CYBERSECURITY/CyberOps Associate - CISCO/04. Visão geral do Linux.md",
     "CYBERSECURITY/CyberOps Associate - CISCO/03. O sistema operacional windows.md",
-    "CYBERSECURITY/CyberOps Associate - CISCO/02. Soldados na guerra contra o crime digital.md",
-    "CYBERSECURITY/CyberOps Associate - CISCO/01. O perigo.md",
     "ASSETS/defesaDeRedes-CISCO.png",
     "ASSETS/defesaDeRedes- CISCO.png",
-    "ASSETS/DEFESA DE REDES -  CISCO .png",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/03. Protocolo Ipv4.md",
-    "COMPUTER SCIENCE/4° PERÍODO/Protocolos de Redes de Computadores/02. Protocolos de Transporte da internet.md",
-    "ASSETS/Pasted image 20240925180920.png",
-    "ASSETS/Pasted image 20240925180906.png",
-    "ASSETS/Pasted image 20240925180844.png",
-    "ASSETS/Pasted image 20240925180833.png",
-    "ASSETS/Pasted image 20240925180502.png",
     "A/Untitled.canvas",
     "A/Wokspace.canvas",
     "A/Untitled 1.canvas"

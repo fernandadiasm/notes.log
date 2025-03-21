@@ -11,7 +11,7 @@
       "query": "REDES",
       "color": {
         "a": 1,
-        "rgb": 5420768
+        "rgb": 5286094
       }
     },
     {
@@ -130,6 +130,6 @@
   "repelStrength": 12.5,
   "linkStrength": 0.729166666666667,
   "linkDistance": 218,
-  "scale": 0.14872058409308575,
+  "scale": 0.10607874342047578,
   "close": false
 }
