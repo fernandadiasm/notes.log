@@ -1,5 +1,4 @@
-
-
+https://blog.softexpert.com/pt-br/iso-27001-guia-completo/
 
 A **ABNT NBR ISO/IEC 27001:2022** é a versão brasileira da norma internacional **ISO/IEC 27001:2022**, que define um padrão para **Gestão da Segurança da Informação (GSI)**.
 
